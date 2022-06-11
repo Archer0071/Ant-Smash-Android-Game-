@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ant Pop</string>
+    
+    <!-- Settings menu -->
+    <string name="settings_title">Settings</string>
+    <string name="calibrate_instructions">Click here to Calibrate</string>
+    
+    <!-- Highscore menu -->
+    <string name="highscore_title">HighScores</string>
+    
+    <!-- Instructions before game starts -->
+    <string name="instructions">Just tilt your device to crush all Ants and Bugs. Keep away from holes!</string>
+	<string name="instructions_continue">Click to Continue</string>
+	 
+	<!-- Game over screen -->
+	<string name="game_over">Game Over</string>
+	<string name="game_over_continue">Click to Continue</string>
+	
+	<!-- During Game Play -->
+	<string name="Prepare">Prepare</string>
+	<string name="Pause">Paused</string>
+	<string name="level">Level</string>
+	
+	<!-- Enter your Highscore screen -->
+	<string name="Enter_highscore_title">You have a Highscore</string>
+	<string name="Enter_highscore_comment">Congrats! Enter your name</string>
+	<string name="Save_highscore">Save</string>
+	<string name="Highscore_hint">Your Name</string>
+	
+</resources>
